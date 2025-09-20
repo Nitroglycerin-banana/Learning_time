@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.png</file>
+        <file>redLocal.png</file>
+        <file>close.png</file>
+        <file>max.png</file>
+        <file>max_back.png</file>
+        <file>mini.png</file>
+        <file>orangeLocal.png</file>
+        <file>closevolume.png</file>
+        <file>volumeND.png</file>
+        <file>volumeST.png</file>
+        <file>volumeRD.png</file>
+        <file>volumeRD2.png</file>
+        <file>play.png</file>
+        <file>play_after.png</file>
+        <file>Stop.png</file>
+    </qresource>
+</RCC>
